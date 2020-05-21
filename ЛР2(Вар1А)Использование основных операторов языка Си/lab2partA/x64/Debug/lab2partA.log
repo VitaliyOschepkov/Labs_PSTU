@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  lab2partA.cpp
+C:\Users\12345\Desktop\УЧЕБА\С++\lab2partA\lab2partA\lab2partA.cpp(14,15): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\12345\Desktop\УЧЕБА\С++\lab2partA\lab2partA\lab2partA.cpp(29,15): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\12345\Desktop\УЧЕБА\С++\lab2partA\lab2partA\lab2partA.cpp(43,15): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\12345\Desktop\УЧЕБА\С++\lab2partA\lab2partA\lab2partA.cpp(57,15): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  lab2partA.vcxproj -> C:\Users\12345\Desktop\УЧЕБА\С++\lab2partA\x64\Debug\lab2partA.exe
